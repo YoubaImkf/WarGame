@@ -7,7 +7,7 @@ The objective of the game is to win all of the cards.
 Clone this repo ↓
 
 ```bash
-git clone https://github.com/YoubaImkf/War-Card-Game-.git
+git clone https://github.com/YoubaImkf/WarGame
 ```
 
 ## Quand ca fonctionne 👀
